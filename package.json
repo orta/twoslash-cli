@@ -1,0 +1,19 @@
+{
+  "name": "twoslash-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "author": "Orta Therox",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^14.14.6",
+    "shiki-twoslash": "^0.8.1",
+    "typescript": "^4.0.5"
+  },
+  "dependencies": {
+    "gatsby-remark-shiki-twoslash": "^0.7.0",
+    "hast-util-to-html": "^7.1.2",
+    "mdast-util-to-hast": "^10.0.0",
+    "remark": "^13.0.0"
+  }
+}
